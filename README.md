@@ -45,5 +45,5 @@ This repository provides a Python script that processes JPG images in bulk by cr
 
 ## Example
 
-- **Input**: JPG images in `input_folder/`
-- **Output**: PNG masks in `output_folder/` and a log of total "max" pixels.
+- **Input**: JPG images in `Online-test/`
+- **Output**: PNG masks in `Online-test/mask/` and a log of total "max" pixels.
