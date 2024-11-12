@@ -24,8 +24,9 @@ This repository provides a Python script that processes JPG images in bulk by cr
 ## Usage
 
 ### Clone the repository:
-  git clone https://github.com/yourusername/ParallelImageMaskingTool.git
-  cd ParallelImageMaskingTool
+    git clone https://github.com/yourusername/ParallelImageMaskingTool.git
+    cd ParallelImageMaskingTool
+  
 ### Prepare Input Directory
     Place your JPG images in an input folder.
   
